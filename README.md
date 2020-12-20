@@ -21,12 +21,12 @@ There is a notebook available here to showcase work related to the above questio
 2.	profile.json - demographic data for each customer.
 3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed.
 4. Starbucks_Capstone_notebook.ipynb-  is written in a Jupyter Notebook
-  - First we state the questions that we need to answer.
-  - We load the dataset.
-  - Then we pre process the data for visualization
-  - Then we perform some data visualization to get some more insights.
-  - After that we make a dataframe just for modelling purpose and run various machine learning algorithms on it.
-  - Finally we summarize our findings.
+    - First we state the questions that we need to answer.
+    - We load the dataset.
+    - Then we pre process the data for visualization
+    - Then we perform some data visualization to get some more insights.
+    - After that we make a dataframe just for modelling purpose and run various machine learning algorithms on it.
+    - Finally we summarize our findings.
 
 
 ## Result
