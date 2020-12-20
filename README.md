@@ -29,7 +29,7 @@ Male and Female almost equally complete the offer. As compared to females, Males
 Built a Machine Learning model using KNeighborsClassifier, RandomForestClassifier, DecisionTreeClassifier, and Gaussian Naive Bayes to predicts whether a customer will respond to an offer. We compared the performance and the DecisionTreeClassifier model performs best among them.
 There may be overfitting which can be solved by considering more data, in future.
 
-The main observations of the code are published here](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
+The main observations of the code are published [here](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
 
 
 ## Acknowledgements
