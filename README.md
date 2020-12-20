@@ -22,7 +22,7 @@ There is a notebook available here to showcase work related to the above questio
 3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed.
 
 
-## Conclusion
+## Result
 This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset.
 - The income of everyone is between 30k and 120k where men earn more in the lower spectrum (less than 75k) and women earn more in the higher spectrum.
 -Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose that information. If need be, we can drop them during the preprocessing of the dataset.
