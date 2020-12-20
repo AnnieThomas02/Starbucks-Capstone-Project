@@ -23,12 +23,13 @@ There is a notebook available here to showcase work related to the above questio
 
 
 ## Conclusion
-This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset. I had started out with the business question:
-Which demographic groups respond best to which offer type and to predict whether a customer will complete a offer?
-Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customer of age between 46–80 and income between 60000–80000 respond most to offers type ‘BOGO’ and ‘Discount’ So it will be good to send BOGO and Discount offers to customer.
-Built a Machine Learning model using KNeighborsClassifier, RandomForestClassifier, DecisionTreeClassifier, and Gaussian Naive Bayes to predicts whether a customer will respond to an offer. We compared the performance and the DecisionTreeClassifier model performs best among them.
-There may be overfitting which can be solved by considering more data, in future.
+This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset.
+- The income of everyone is between 30k and 120k where men earn more in the lower spectrum (less than 75k) and women earn more in the higher spectrum.
+-Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose that information. If need be, we can drop them during the preprocessing of the dataset.
+-The most common offer type among all age groups is the BOGO, followed by the Discount Offers. Whereas, the least common offer to be sent is the informational offers. I believe that BOGO offers are more attractive compared to other offers provided by Starbucks.
+-Finally, I would conclude that I have successfully made a model that tells with 92% accuracy what happens when a customer is presented with an offe
 
+## Blogpost
 The main observations of the code are published in [Medium](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
 
 
