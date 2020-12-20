@@ -13,13 +13,13 @@ This project uses Python 3.6 and the following necessary libraries:
 -	matplotlib
 -	sklean
 -	seaborn
-- 
+- datetime
 
 ## File Descriptions
-There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
-1.	portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-2.	profile.json - demographic data for each customer
-3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed
+There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions:
+1.	portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
+2.	profile.json - demographic data for each customer.
+3.	transcript.json - records for transactions, offers received, offers viewed, and offers completed.
 
 
 ## Conclusion
@@ -27,10 +27,13 @@ This project, which I explored the Starbucks data set, analyzed, visualized and 
 Which demographic groups respond best to which offer type and to predict whether a customer will complete a offer?
 Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customer of age between 46–80 and income between 60000–80000 respond most to offers type ‘BOGO’ and ‘Discount’ So it will be good to send BOGO and Discount offers to customer.
 Built a Machine Learning model using KNeighborsClassifier, RandomForestClassifier, DecisionTreeClassifier, and Gaussian Naive Bayes to predicts whether a customer will respond to an offer. We compared the performance and the DecisionTreeClassifier model performs best among them.
-There may be overfitting which can be solved by considering more data, in future
+There may be overfitting which can be solved by considering more data, in future.
+
+The main observations of the code are published here[here](ub.com/).
+
 
 ## Acknowledgements
 
-- Special thanks to Starbucks and Udacity for providing the data utilized in this project
-- Stackoverflow
+- Special thanks to Starbucks and Udacity for providing the data utilized in this project.
+- Stackoverflow.
 
