@@ -40,7 +40,7 @@ This project, which I explored the Starbucks data set, analyzed, visualized and 
 
 - The income of customer is in between 30000 and 120000 where women earn higher range as compared to men.
 
-- Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose their information. 
+- Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose their information.So I drop these during the preprocessing of the dataset.
 
 - Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income is in between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers.
 
