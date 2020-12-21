@@ -33,7 +33,7 @@ There is a notebook available here to showcase work related to the above questio
 ## Data Model
 - After pre-processing the dataset and after visualization the next part is to make a model that figure out whether the customer responded to offer or not.
 
-- Here I usde four different types of models that will predict whether the customer responded to offer or not.
+- Here I used four different types of models that will predict whether the customer responded to offer or not.
 
 ## Result
 This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset.
