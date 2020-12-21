@@ -15,7 +15,7 @@ This project uses Python 3.6 and the following necessary libraries:
 -	matplotlib
 -	sklean
 -	seaborn
--   datetime
+- datetime
 
 ## File Descriptions
  There are 3 data files used to do this project:
@@ -38,7 +38,7 @@ This project uses Python 3.6 and the following necessary libraries:
 ## Result
 This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset.
 
-- The income of everyone is between 30k and 120k where men earn more in the lower spectrum (less than 75k) and women earn more in the higher spectrum.
+- TThe income of customer is in between 30000 and 120000 where women earns higher range as compare to men.
 
 - Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose that information. If need be, we can drop them during the preprocessing of the dataset.
 
@@ -47,7 +47,7 @@ This project, which I explored the Starbucks data set, analyzed, visualized and 
 - Finally, I would conclude that model can predict 92.64% accuracy, what happens when a customer gets an offer.
 
 ## Blogpost
-The observations of the code is published in [Medium](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
+The observations is published in [Medium](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
 
 
 ## Acknowledgements
