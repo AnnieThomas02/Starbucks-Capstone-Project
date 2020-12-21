@@ -44,7 +44,7 @@ This project, which I explored the Starbucks data set, analyzed, visualized and 
 
 - Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers..
 
-- Finally, I would conclude that model can predict 92.64% accuracy, what happens when a customer gets an offer.
+- I can conclude that the model can predict 92.64% accuracy, what happens when a customer gets an offer.
 
 ## Blogpost
 The observations is published in [Medium](https://anniemathewlog.medium.com/forecasting-of-starbucks-promotional-deals-f10798e5da75).
