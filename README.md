@@ -38,11 +38,11 @@ This project uses Python 3.6 and the following necessary libraries:
 ## Result
 This project, which I explored the Starbucks data set, analyzed, visualized and created supervised machine learning models. I found this project interesting and challenging, mainly due to the structure of the data especially transcript dataset.
 
-- TThe income of customer is in between 30000 and 120000 where women earns higher range as compare to men.
+- The income of customer is in between 30000 and 120000 where women earn higher range as compared to men.
 
 - Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose that information. If need be, we can drop them during the preprocessing of the dataset.
 
-- Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers..
+- Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers.
 
 - I can conclude that the model can predict 92.64% accuracy, what happens when a customer gets an offer.
 
