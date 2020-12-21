@@ -27,7 +27,7 @@ This project uses Python 3.6 and the following necessary libraries:
     - We load the dataset.
     - Then we pre-process the data for visualization
     - Then performed data visualization to get some insights.
-    - After that make a dataframe combining the three files for modelling and run machine learning algorithms on it.
+    - After that make a dataframe combining the three files for model and run machine learning algorithms on it.
     - Finally we conlude with our findings.
 
 ## Data Model
