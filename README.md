@@ -6,6 +6,7 @@ Starbucks, one of the world’s most popular coffee shops, frequently provides o
 
 ## Software Requirements
 This project uses Python 3.6 and the following necessary libraries:
+**Libraries used**
 -	pandas
 -	numpy
 -	math
