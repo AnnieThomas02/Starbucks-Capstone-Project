@@ -2,7 +2,7 @@
 Starbucks Capstone project is my final work of my Data Scientist nanodegree with Udacity. For the challenge, Udacity provided data that mirrors customer response on the Starbucks rewards mobile app
 
 ## Project Overview
-Starbucks, one of the world’s most popular coffee shops, frequently provides offers to its customers through its rewards app. An offer can advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free).  Starbucks can most likely build the possibility that the customer opens the offer and response to an offer. This project is focused on the promotional offers for customers based on their responses to the previous offers .So that Starbucks can properly target who they send their offers to.
+Starbucks, one of the world’s most popular coffee shops, frequently provides offers to its customers through its rewards app. An offer can advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free).  Starbucks can most likely build the possibility that the customer opens the offer and response to an offer. This project is focused on the promotional offers for customers based on their responses to the previous offers .So that Starbucks can send offer types in a better way.
 
 ## Software Requirements
 This project uses Python 3.6 and the following necessary libraries:
@@ -40,9 +40,9 @@ This project, which I explored the Starbucks data set, analyzed, visualized and 
 
 - The income of customer is in between 30000 and 120000 where women earn higher range as compared to men.
 
-- Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose that information. If need be, we can drop them during the preprocessing of the dataset.
+- Customers with age 118 are mostly either fake entries or abnormalities or customers who did not want to disclose their information. 
 
-- Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers.
+- Male and Female almost equally complete the offer. As compared to females, Males received more offers. Customers of age group between 46–80 and whose income is in between 60000–80000 respond most to offers type 'BOGO' and then 'Discount' So it will be good to send BOGO and Discount offers to these customers.
 
 - I can conclude that the model can predict 92.64% accuracy, what happens when a customer gets an offer.
 
